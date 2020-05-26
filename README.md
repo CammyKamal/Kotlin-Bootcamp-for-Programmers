@@ -15,7 +15,6 @@ You can view the full details of this program here -: [Kotlin Bootcamp For Progr
 
 ## Project Structure
 <img src="images/project_structure.png" width="300" height="400"/>
-![](images/project_structure.png 250x250)
 
 ## Testing Examples
 In order to test different **Kotlin Examples** in this sample **Android Studio** project follow below steps:
