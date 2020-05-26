@@ -25,7 +25,7 @@ In this project **Kotlin Plugin** Version is:**1.3.0+**
 ## Android Studio
 Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating systems. 
 
-In this project **Android Studio** Version is: ***3.6.2*
+In this project **Android Studio** Version is: ***3.6.2**
 
 ## Gradle
 Gradle is an open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy-based domain-specific language instead of the XML form used by Maven for declaring the project configuration
