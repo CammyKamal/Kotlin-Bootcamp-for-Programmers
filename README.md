@@ -16,6 +16,11 @@ You can view the full details of this program here -: [Kotlin Bootcamp For Progr
 ## Project Structure
 ![](images/project_structure.png)
 
+## Testing Examples
+In order to test different **Kotlin Examples** in this sample **Android Studio** project follow below steps:
+1. Open Individual Kotlin File for which you want to see the output under defined package.
+2. Run **main()** method defined in the file to execute the Program.
+
 ## Kotlin
 Kotlin is a **cross-platform**, **statically typed**, **general-purpose** programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
 
