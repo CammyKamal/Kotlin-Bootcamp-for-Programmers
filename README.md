@@ -5,13 +5,13 @@ This repository contains a Android Studio projects with Kotlin Files. These Kotl
 
 You can view the full details of this program here -: [Kotlin Bootcamp For Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview?utm_source=week1&utm_medium=email&utm_campaign=30DaysOfKotlin&utm_term=Basic)
 
-Topics Covered in the sample project are:
-1. **Getting Started With Kotlin** : Project contains a Hello World program which will make you familiar with Kotlin Syntax.
-2. **Kotlin basics** : Project contains example's Kotlin data types, operators, variables and more.
-3. **Functions** : Here you will about **main()** functions and how to define custom functions in Kotlin with examples.
-4. **Classes and objects** : Project contains different examples to explain different oops concept's in Kotlin.
-5. **Extensions**: Sample project contains very simple examples of paris, triples and extension functions.
-6. **Generics** : 
+## Topics and Examples Covered in the sample project are:
+1. **Getting Started With Kotlin** 
+2. **Kotlin basics** 
+3. **Functions** 
+4. **Classes and objects** 
+5. **Extensions**
+6. **Generics**  
 
 ## Kotlin
 Kotlin is a **cross-platform**, **statically typed**, **general-purpose** programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
