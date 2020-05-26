@@ -13,6 +13,9 @@ You can view the full details of this program here -: [Kotlin Bootcamp For Progr
 5. **Extensions**
 6. **Generics**  
 
+## Project Structure
+![](images/project_structure.png)
+
 ## Kotlin
 Kotlin is a **cross-platform**, **statically typed**, **general-purpose** programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
 
