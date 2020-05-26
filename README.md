@@ -18,8 +18,7 @@ Kotlin is a **cross-platform**, **statically typed**, **general-purpose** progra
 
 Android mobile development has been **Kotlin-first** since **Google I/O in 2019**.
 
-For More information about **Kotlin** and It's benefit with **Android Development** can be found [Here]
-(https://kotlinlang.org/docs/reference/android-overview.html)
+For More information about **Kotlin** and It's benefit with **Android Development** can be found [Here](https://kotlinlang.org/docs/reference/android-overview.html)
 
 In this project **Kotlin Plugin** Version is:**1.3.0+**
 
