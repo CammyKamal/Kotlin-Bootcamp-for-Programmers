@@ -14,7 +14,7 @@ You can view the full details of this program here -: [Kotlin Bootcamp For Progr
 6. **Generics**  
 
 ## Project Structure
-<img src="images/project_structure.png" width="300" height="100"/>
+<img src="images/project_structure.png" width="300" height="300"/>
 ![](images/project_structure.png 250x250)
 
 ## Testing Examples
